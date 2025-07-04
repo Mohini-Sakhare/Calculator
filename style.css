@@ -14,7 +14,11 @@ body{
     align-items: center;
     background: linear-gradient(45deg, #0a0a0a, #3a4452);
 }
-
+h1{
+    text-align: center;
+    margin: 8px;
+    color: #79e724
+}
 .calculator{
     border: 1px solid #717171;
     padding: 10px;
